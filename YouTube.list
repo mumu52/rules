@@ -1,0 +1,12 @@
+# YouTube 流量走代理
+DOMAIN-SUFFIX,youtube.com,youtube
+DOMAIN-SUFFIX,youtu.be,youtube
+DOMAIN-SUFFIX,ytimg.com,youtube
+DOMAIN-SUFFIX,googlevideo.com,youtube
+DOMAIN-SUFFIX,googleusercontent.com,youtube
+DOMAIN-SUFFIX,gstatic.com,youtube
+IP-CIDR,173.194.0.0/16,youtube,no-resolve
+IP-CIDR,206.111.0.0/16,youtube,no-resolve
+IP-CIDR,209.85.128.0/17,youtube,no-resolve
+IP-CIDR,216.58.192.0/19,youtube,no-resolve
+IP-CIDR,216.239.32.0/19,youtube,no-resolve
