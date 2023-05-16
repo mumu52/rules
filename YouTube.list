@@ -1,4 +1,5 @@
 # YouTube 流量走代理
+  DOMAIN-SUFFIX,googleapis.com,youtube
   DOMAIN,youtubei.googleapis.com,youtube
   DOMAIN,yt3.ggpht.com,youtube
   DOMAIN-SUFFIX,ggpht.cn,youtube
